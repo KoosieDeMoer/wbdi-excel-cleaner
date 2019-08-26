@@ -7,7 +7,7 @@ java -jar wbdiExcelCleaner.jar INPUT_FILE_PATH <FILTER_FILE_PATH>
 produces a file alongside INPUT_FILE_PATH named clean.xlsx
 
 
-## Correlation - written in Java fr perpormance comparison with SciPy
+## Correlation - written in Java for perpormance comparison with SciPy
 ### Usage
 java -cp wbdiExcelCleaner.jar za.co.ennui.wbdi.Correlate CLEAN_FILE_PATH
 
